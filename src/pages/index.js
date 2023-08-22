@@ -1,5 +1,4 @@
 import Head from "next/head";
-//starter pack cloned (ant design included)
 const HomePage = () => {
   return (
     <div>
